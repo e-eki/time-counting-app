@@ -1,0 +1,15 @@
+C:\Portfolio\bitbacket\time_counting_app\OpTime\bin\Release\settings.cfg
+C:\Portfolio\bitbacket\time_counting_app\OpTime\bin\Release\OpTime.exe.config
+C:\Portfolio\bitbacket\time_counting_app\OpTime\bin\Release\OpTime.exe
+C:\Portfolio\bitbacket\time_counting_app\OpTime\bin\Release\OpTime.pdb
+C:\Portfolio\bitbacket\time_counting_app\OpTime\obj\Release\Программа подсчёта времени наработки.csprojAssemblyReference.cache
+C:\Portfolio\bitbacket\time_counting_app\OpTime\obj\Release\OpTime.AboutProgramForm.resources
+C:\Portfolio\bitbacket\time_counting_app\OpTime\obj\Release\OpTime.AdminForm.resources
+C:\Portfolio\bitbacket\time_counting_app\OpTime\obj\Release\OpTime.KomplektsForm.resources
+C:\Portfolio\bitbacket\time_counting_app\OpTime\obj\Release\OpTime.MainForm.resources
+C:\Portfolio\bitbacket\time_counting_app\OpTime\obj\Release\OpTime.PasswordForm.resources
+C:\Portfolio\bitbacket\time_counting_app\OpTime\obj\Release\OpTime.Properties.Resources.resources
+C:\Portfolio\bitbacket\time_counting_app\OpTime\obj\Release\Программа подсчёта времени наработки.csproj.GenerateResource.cache
+C:\Portfolio\bitbacket\time_counting_app\OpTime\obj\Release\Программа подсчёта времени наработки.csproj.CoreCompileInputs.cache
+C:\Portfolio\bitbacket\time_counting_app\OpTime\obj\Release\OpTime.exe
+C:\Portfolio\bitbacket\time_counting_app\OpTime\obj\Release\OpTime.pdb

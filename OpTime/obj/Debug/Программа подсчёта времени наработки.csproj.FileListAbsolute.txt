@@ -1,0 +1,182 @@
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\Программа подсчёта времени наработки\Таймер_2\bin\Debug\Таймер_2.exe.config
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\Программа подсчёта времени наработки\Таймер_2\obj\Debug\Таймер_2.exe
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\Программа подсчёта времени наработки\Таймер_2\obj\Debug\Таймер_2.pdb
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\Программа подсчёта времени наработки\Таймер_2\bin\Debug\settings.cfg
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\Программа подсчёта времени наработки\Таймер_2\bin\Debug\Таймер_2.exe
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\Программа подсчёта времени наработки\Таймер_2\bin\Debug\Таймер_2.pdb
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\Программа подсчёта времени наработки\Таймер_2\obj\Debug\Программа подсчёта времени наработки.csprojResolveAssemblyReference.cache
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\Программа подсчёта времени наработки\Таймер_2\obj\Debug\Таймер_2.AboutProgramForm.resources
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\Программа подсчёта времени наработки\Таймер_2\obj\Debug\Таймер_2.KomplektsForm.resources
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\Программа подсчёта времени наработки\Таймер_2\obj\Debug\Таймер_2.MainForm.resources
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\Программа подсчёта времени наработки\Таймер_2\obj\Debug\Таймер_2.Properties.Resources.resources
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\Программа подсчёта времени наработки\Таймер_2\obj\Debug\Программа подсчёта времени наработки.csproj.GenerateResource.Cache
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\Программа подсчёта времени наработки\OpTime\bin\Debug\Таймер_2.exe.config
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\Программа подсчёта времени наработки\OpTime\obj\Debug\Таймер_2.exe
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\Программа подсчёта времени наработки\OpTime\obj\Debug\Таймер_2.pdb
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\Программа подсчёта времени наработки\OpTime\bin\Debug\settings.cfg
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\Программа подсчёта времени наработки\OpTime\bin\Debug\Таймер_2.exe
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\Программа подсчёта времени наработки\OpTime\bin\Debug\Таймер_2.pdb
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\Программа подсчёта времени наработки\OpTime\obj\Debug\Программа подсчёта времени наработки.csprojResolveAssemblyReference.cache
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\Программа подсчёта времени наработки\OpTime\obj\Debug\Таймер_2.AboutProgramForm.resources
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\Программа подсчёта времени наработки\OpTime\obj\Debug\Таймер_2.KomplektsForm.resources
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\Программа подсчёта времени наработки\OpTime\obj\Debug\Таймер_2.MainForm.resources
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\Программа подсчёта времени наработки\OpTime\obj\Debug\Таймер_2.Properties.Resources.resources
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\Программа подсчёта времени наработки\OpTime\obj\Debug\Программа подсчёта времени наработки.csproj.GenerateResource.Cache
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\OpTime\bin\Debug\OpTime.exe.config
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\OpTime\bin\Debug\settings.cfg
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\OpTime\bin\Debug\OpTime.exe
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\OpTime\bin\Debug\OpTime.pdb
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\OpTime\obj\Debug\Программа подсчёта времени наработки.csprojResolveAssemblyReference.cache
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\OpTime\obj\Debug\OpTime.AboutProgramForm.resources
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\OpTime\obj\Debug\OpTime.KomplektsForm.resources
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\OpTime\obj\Debug\OpTime.MainForm.resources
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\OpTime\obj\Debug\OpTime.Properties.Resources.resources
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\OpTime\obj\Debug\Программа подсчёта времени наработки.csproj.GenerateResource.Cache
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\OpTime\obj\Debug\OpTime.exe
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\OpTime\obj\Debug\OpTime.pdb
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки 14 сентября\Программа подсчёта времени наработки\OpTime\bin\Debug\OpTime.exe.config
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки 14 сентября\Программа подсчёта времени наработки\OpTime\obj\Debug\OpTime.exe
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки 14 сентября\Программа подсчёта времени наработки\OpTime\obj\Debug\OpTime.pdb
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки 14 сентября\Программа подсчёта времени наработки\OpTime\bin\Debug\settings.cfg
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки 14 сентября\Программа подсчёта времени наработки\OpTime\bin\Debug\OpTime.exe
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки 14 сентября\Программа подсчёта времени наработки\OpTime\bin\Debug\OpTime.pdb
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки 14 сентября\Программа подсчёта времени наработки\OpTime\obj\Debug\Программа подсчёта времени наработки.csprojResolveAssemblyReference.cache
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки 14 сентября\Программа подсчёта времени наработки\OpTime\obj\Debug\OpTime.AboutProgramForm.resources
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки 14 сентября\Программа подсчёта времени наработки\OpTime\obj\Debug\OpTime.KomplektsForm.resources
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки 14 сентября\Программа подсчёта времени наработки\OpTime\obj\Debug\OpTime.MainForm.resources
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки 14 сентября\Программа подсчёта времени наработки\OpTime\obj\Debug\OpTime.Properties.Resources.resources
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки 14 сентября\Программа подсчёта времени наработки\OpTime\obj\Debug\Программа подсчёта времени наработки.csproj.GenerateResource.Cache
+E:\Projects\КПА БИНК-М1\ПО\Пр. подсчёта времени наработки\Программа подсчёта времени наработки_последняя версия\OpTime\bin\Debug\OpTime.exe.config
+E:\Projects\КПА БИНК-М1\ПО\Пр. подсчёта времени наработки\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\OpTime.exe
+E:\Projects\КПА БИНК-М1\ПО\Пр. подсчёта времени наработки\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\OpTime.pdb
+E:\Projects\КПА БИНК-М1\ПО\Пр. подсчёта времени наработки\Программа подсчёта времени наработки_последняя версия\OpTime\bin\Debug\settings.cfg
+E:\Projects\КПА БИНК-М1\ПО\Пр. подсчёта времени наработки\Программа подсчёта времени наработки_последняя версия\OpTime\bin\Debug\OpTime.exe
+E:\Projects\КПА БИНК-М1\ПО\Пр. подсчёта времени наработки\Программа подсчёта времени наработки_последняя версия\OpTime\bin\Debug\OpTime.pdb
+E:\Projects\КПА БИНК-М1\ПО\Пр. подсчёта времени наработки\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\OpTime.AboutProgramForm.resources
+E:\Projects\КПА БИНК-М1\ПО\Пр. подсчёта времени наработки\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\OpTime.KomplektsForm.resources
+E:\Projects\КПА БИНК-М1\ПО\Пр. подсчёта времени наработки\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\OpTime.MainForm.resources
+E:\Projects\КПА БИНК-М1\ПО\Пр. подсчёта времени наработки\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\OpTime.Properties.Resources.resources
+E:\Projects\КПА БИНК-М1\ПО\Пр. подсчёта времени наработки\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\Программа подсчёта времени наработки.csproj.GenerateResource.Cache
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки_v1.2a - Зн\Программа подсчёта времени наработки_последняя версия\OpTime\bin\Debug\OpTime.exe.config
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки_v1.2a - Зн\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\OpTime.exe
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки_v1.2a - Зн\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\OpTime.pdb
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки_v1.2a - Зн\Программа подсчёта времени наработки_последняя версия\OpTime\bin\Debug\settings.cfg
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки_v1.2a - Зн\Программа подсчёта времени наработки_последняя версия\OpTime\bin\Debug\OpTime.exe
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки_v1.2a - Зн\Программа подсчёта времени наработки_последняя версия\OpTime\bin\Debug\OpTime.pdb
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки_v1.2a - Зн\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\Программа подсчёта времени наработки.csprojResolveAssemblyReference.cache
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки_v1.2a - Зн\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\OpTime.AboutProgramForm.resources
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки_v1.2a - Зн\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\OpTime.KomplektsForm.resources
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки_v1.2a - Зн\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\OpTime.MainForm.resources
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки_v1.2a - Зн\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\OpTime.Properties.Resources.resources
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки_v1.2a - Зн\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\Программа подсчёта времени наработки.csproj.GenerateResource.Cache
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки_v1.2a - c иконкой\Программа подсчёта времени наработки_последняя версия\OpTime\bin\Debug\OpTime.exe.config
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки_v1.2a - c иконкой\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\OpTime.exe
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки_v1.2a - c иконкой\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\OpTime.pdb
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки_v1.2a - c иконкой\Программа подсчёта времени наработки_последняя версия\OpTime\bin\Debug\settings.cfg
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки_v1.2a - c иконкой\Программа подсчёта времени наработки_последняя версия\OpTime\bin\Debug\OpTime.exe
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки_v1.2a - c иконкой\Программа подсчёта времени наработки_последняя версия\OpTime\bin\Debug\OpTime.pdb
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки_v1.2a - c иконкой\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\OpTime.AboutProgramForm.resources
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки_v1.2a - c иконкой\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\OpTime.KomplektsForm.resources
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки_v1.2a - c иконкой\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\OpTime.MainForm.resources
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки_v1.2a - c иконкой\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\OpTime.Properties.Resources.resources
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки_v1.2a - c иконкой\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\Программа подсчёта времени наработки.csproj.GenerateResource.Cache
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки_v1.2a - c иконкой\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\OpTime.AdminForm.resources
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки_v1.2a - c иконкой\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\OpTime.PasswordForm.resources
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки_v1.2a - c иконкой\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\Программа подсчёта времени наработки.csprojResolveAssemblyReference.cache
+C:\Users\Дрёмина Виктория\Desktop\Редакт.подсчет времени наработки+режим администратора\Программа подсчёта времени наработки_последняя версия\OpTime\bin\Debug\OpTime.exe.config
+C:\Users\Дрёмина Виктория\Desktop\Редакт.подсчет времени наработки+режим администратора\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\OpTime.exe
+C:\Users\Дрёмина Виктория\Desktop\Редакт.подсчет времени наработки+режим администратора\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\OpTime.pdb
+C:\Users\Дрёмина Виктория\Desktop\Редакт.подсчет времени наработки+режим администратора\Программа подсчёта времени наработки_последняя версия\OpTime\bin\Debug\settings.cfg
+C:\Users\Дрёмина Виктория\Desktop\Редакт.подсчет времени наработки+режим администратора\Программа подсчёта времени наработки_последняя версия\OpTime\bin\Debug\OpTime.exe
+C:\Users\Дрёмина Виктория\Desktop\Редакт.подсчет времени наработки+режим администратора\Программа подсчёта времени наработки_последняя версия\OpTime\bin\Debug\OpTime.pdb
+C:\Users\Дрёмина Виктория\Desktop\Редакт.подсчет времени наработки+режим администратора\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\OpTime.AboutProgramForm.resources
+C:\Users\Дрёмина Виктория\Desktop\Редакт.подсчет времени наработки+режим администратора\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\OpTime.AdminForm.resources
+C:\Users\Дрёмина Виктория\Desktop\Редакт.подсчет времени наработки+режим администратора\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\OpTime.KomplektsForm.resources
+C:\Users\Дрёмина Виктория\Desktop\Редакт.подсчет времени наработки+режим администратора\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\OpTime.MainForm.resources
+C:\Users\Дрёмина Виктория\Desktop\Редакт.подсчет времени наработки+режим администратора\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\OpTime.PasswordForm.resources
+C:\Users\Дрёмина Виктория\Desktop\Редакт.подсчет времени наработки+режим администратора\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\OpTime.Properties.Resources.resources
+C:\Users\Дрёмина Виктория\Desktop\Редакт.подсчет времени наработки+режим администратора\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\Программа подсчёта времени наработки.csproj.GenerateResource.Cache
+C:\Users\Дрёмина Виктория\Desktop\Редакт.подсчет времени наработки+режим администратора\Программа подсчёта времени наработки_последняя версия\OpTime\obj\Debug\Программа подсчёта времени наработки.csprojResolveAssemblyReference.cache
+C:\Users\Дрёмина Виктория\Desktop\+режим администратора\OpTime\bin\Debug\settings.cfg
+C:\Users\Дрёмина Виктория\Desktop\+режим администратора\OpTime\bin\Debug\OpTime.exe.config
+C:\Users\Дрёмина Виктория\Desktop\+режим администратора\OpTime\bin\Debug\OpTime.exe
+C:\Users\Дрёмина Виктория\Desktop\+режим администратора\OpTime\bin\Debug\OpTime.pdb
+C:\Users\Дрёмина Виктория\Desktop\+режим администратора\OpTime\obj\Debug\OpTime.AboutProgramForm.resources
+C:\Users\Дрёмина Виктория\Desktop\+режим администратора\OpTime\obj\Debug\OpTime.AdminForm.resources
+C:\Users\Дрёмина Виктория\Desktop\+режим администратора\OpTime\obj\Debug\OpTime.KomplektsForm.resources
+C:\Users\Дрёмина Виктория\Desktop\+режим администратора\OpTime\obj\Debug\OpTime.MainForm.resources
+C:\Users\Дрёмина Виктория\Desktop\+режим администратора\OpTime\obj\Debug\OpTime.PasswordForm.resources
+C:\Users\Дрёмина Виктория\Desktop\+режим администратора\OpTime\obj\Debug\OpTime.Properties.Resources.resources
+C:\Users\Дрёмина Виктория\Desktop\+режим администратора\OpTime\obj\Debug\Программа подсчёта времени наработки.csproj.GenerateResource.Cache
+C:\Users\Дрёмина Виктория\Desktop\+режим администратора\OpTime\obj\Debug\OpTime.exe
+C:\Users\Дрёмина Виктория\Desktop\+режим администратора\OpTime\obj\Debug\OpTime.pdb
+C:\Users\Дрёмина Виктория\Desktop\+режим администратора\OpTime\obj\Debug\Программа подсчёта времени наработки.csprojResolveAssemblyReference.cache
+C:\Users\Дрёмина Виктория\Desktop\Программа для подсчета вреемни наработки\+режим администратора\OpTime\bin\Debug\OpTime.exe.config
+C:\Users\Дрёмина Виктория\Desktop\Программа для подсчета вреемни наработки\+режим администратора\OpTime\obj\Debug\OpTime.exe
+C:\Users\Дрёмина Виктория\Desktop\Программа для подсчета вреемни наработки\+режим администратора\OpTime\obj\Debug\OpTime.pdb
+C:\Users\Дрёмина Виктория\Desktop\Программа для подсчета вреемни наработки\Последняя версия (+режим администратора)\OpTime\bin\Debug\OpTime.exe.config
+C:\Users\Дрёмина Виктория\Desktop\Программа для подсчета вреемни наработки\Последняя версия (+режим администратора)\OpTime\obj\Debug\OpTime.exe
+C:\Users\Дрёмина Виктория\Desktop\Программа для подсчета вреемни наработки\Последняя версия (+режим администратора)\OpTime\obj\Debug\OpTime.pdb
+C:\Users\Дрёмина Виктория\Desktop\Программа для подсчета времени наработки\Подсчет наработки_самая последняя версия (+режим администратора)\OpTime\bin\Debug\OpTime.exe.config
+C:\Users\Дрёмина Виктория\Desktop\Программа для подсчета времени наработки\Подсчет наработки_самая последняя версия (+режим администратора)\OpTime\obj\Debug\OpTime.exe
+C:\Users\Дрёмина Виктория\Desktop\Программа для подсчета времени наработки\Подсчет наработки_самая последняя версия (+режим администратора)\OpTime\obj\Debug\OpTime.pdb
+C:\Users\Дрёмина Виктория\Desktop\Программа для подсчета времени наработки\Подсчет наработки_самая последняя версия (+режим администратора)\OpTime\bin\Debug\settings.cfg
+C:\Users\Дрёмина Виктория\Desktop\Программа для подсчета времени наработки\Подсчет наработки_самая последняя версия (+режим администратора)\OpTime\bin\Debug\OpTime.exe
+C:\Users\Дрёмина Виктория\Desktop\Программа для подсчета времени наработки\Подсчет наработки_самая последняя версия (+режим администратора)\OpTime\bin\Debug\OpTime.pdb
+C:\Users\Дрёмина Виктория\Desktop\Программа для подсчета времени наработки\Подсчет наработки_самая последняя версия (+режим администратора)\OpTime\obj\Debug\Программа подсчёта времени наработки.csprojResolveAssemblyReference.cache
+C:\Users\Дрёмина Виктория\Desktop\Программа для подсчета времени наработки\Подсчет наработки_самая последняя версия (+режим администратора)\OpTime\obj\Debug\OpTime.AboutProgramForm.resources
+C:\Users\Дрёмина Виктория\Desktop\Программа для подсчета времени наработки\Подсчет наработки_самая последняя версия (+режим администратора)\OpTime\obj\Debug\OpTime.AdminForm.resources
+C:\Users\Дрёмина Виктория\Desktop\Программа для подсчета времени наработки\Подсчет наработки_самая последняя версия (+режим администратора)\OpTime\obj\Debug\OpTime.KomplektsForm.resources
+C:\Users\Дрёмина Виктория\Desktop\Программа для подсчета времени наработки\Подсчет наработки_самая последняя версия (+режим администратора)\OpTime\obj\Debug\OpTime.MainForm.resources
+C:\Users\Дрёмина Виктория\Desktop\Программа для подсчета времени наработки\Подсчет наработки_самая последняя версия (+режим администратора)\OpTime\obj\Debug\OpTime.PasswordForm.resources
+C:\Users\Дрёмина Виктория\Desktop\Программа для подсчета времени наработки\Подсчет наработки_самая последняя версия (+режим администратора)\OpTime\obj\Debug\OpTime.Properties.Resources.resources
+C:\Users\Дрёмина Виктория\Desktop\Программа для подсчета времени наработки\Подсчет наработки_самая последняя версия (+режим администратора)\OpTime\obj\Debug\Программа подсчёта времени наработки.csproj.GenerateResource.Cache
+C:\Users\Дрёмина Виктория\Desktop\Программа для подсчета времени наработки\самая последняя версия (+режим админ.)\OpTime\bin\Debug\OpTime.exe.config
+C:\Users\Дрёмина Виктория\Desktop\Программа для подсчета времени наработки\самая последняя версия (+режим админ.)\OpTime\obj\Debug\OpTime.exe
+C:\Users\Дрёмина Виктория\Desktop\Программа для подсчета времени наработки\самая последняя версия (+режим админ.)\OpTime\obj\Debug\OpTime.pdb
+D:\Ботва\Программа для подсчета времени наработки\самая последняя версия (+режим админ.)\OpTime\bin\Debug\OpTime.exe.config
+D:\Ботва\Программа для подсчета времени наработки\самая последняя версия (+режим админ.)\OpTime\obj\Debug\OpTime.exe
+D:\Ботва\Программа для подсчета времени наработки\самая последняя версия (+режим админ.)\OpTime\obj\Debug\OpTime.pdb
+D:\Подсчет времени наработки\OpTime\bin\Debug\OpTime.exe.config
+D:\Подсчет времени наработки\OpTime\obj\Debug\OpTime.exe
+D:\Подсчет времени наработки\OpTime\obj\Debug\OpTime.pdb
+D:\Подсчет времени наработки\OpTime\bin\Debug\settings.cfg
+D:\Подсчет времени наработки\OpTime\bin\Debug\OpTime.exe
+D:\Подсчет времени наработки\OpTime\bin\Debug\OpTime.pdb
+D:\Подсчет времени наработки\OpTime\obj\Debug\Программа подсчёта времени наработки.csprojResolveAssemblyReference.cache
+D:\Подсчет времени наработки\OpTime\obj\Debug\OpTime.AboutProgramForm.resources
+D:\Подсчет времени наработки\OpTime\obj\Debug\OpTime.AdminForm.resources
+D:\Подсчет времени наработки\OpTime\obj\Debug\OpTime.KomplektsForm.resources
+D:\Подсчет времени наработки\OpTime\obj\Debug\OpTime.MainForm.resources
+D:\Подсчет времени наработки\OpTime\obj\Debug\OpTime.PasswordForm.resources
+D:\Подсчет времени наработки\OpTime\obj\Debug\OpTime.Properties.Resources.resources
+D:\Подсчет времени наработки\OpTime\obj\Debug\Программа подсчёта времени наработки.csproj.GenerateResource.Cache
+C:\Users\Magic_mushroom\Desktop\КОД - СТАРОЕ\Time_сounting\Подсчет времени наработки\OpTime\bin\Debug\OpTime.exe.config
+C:\Users\Magic_mushroom\Desktop\КОД - СТАРОЕ\Time_сounting\Подсчет времени наработки\OpTime\obj\Debug\OpTime.exe
+C:\Users\Magic_mushroom\Desktop\КОД - СТАРОЕ\Time_сounting\Подсчет времени наработки\OpTime\obj\Debug\OpTime.pdb
+C:\Users\Magic_mushroom\Desktop\КОД - СТАРОЕ\Time_сounting\Подсчет времени наработки\OpTime\bin\Debug\settings.cfg
+C:\Users\Magic_mushroom\Desktop\КОД - СТАРОЕ\Time_сounting\Подсчет времени наработки\OpTime\bin\Debug\OpTime.exe
+C:\Users\Magic_mushroom\Desktop\КОД - СТАРОЕ\Time_сounting\Подсчет времени наработки\OpTime\bin\Debug\OpTime.pdb
+C:\Users\Magic_mushroom\Desktop\КОД - СТАРОЕ\Time_сounting\Подсчет времени наработки\OpTime\obj\Debug\Программа подсчёта времени наработки.csprojResolveAssemblyReference.cache
+C:\Users\Magic_mushroom\Desktop\КОД - СТАРОЕ\Time_сounting\Подсчет времени наработки\OpTime\obj\Debug\OpTime.AboutProgramForm.resources
+C:\Users\Magic_mushroom\Desktop\КОД - СТАРОЕ\Time_сounting\Подсчет времени наработки\OpTime\obj\Debug\OpTime.AdminForm.resources
+C:\Users\Magic_mushroom\Desktop\КОД - СТАРОЕ\Time_сounting\Подсчет времени наработки\OpTime\obj\Debug\OpTime.KomplektsForm.resources
+C:\Users\Magic_mushroom\Desktop\КОД - СТАРОЕ\Time_сounting\Подсчет времени наработки\OpTime\obj\Debug\OpTime.MainForm.resources
+C:\Users\Magic_mushroom\Desktop\КОД - СТАРОЕ\Time_сounting\Подсчет времени наработки\OpTime\obj\Debug\OpTime.PasswordForm.resources
+C:\Users\Magic_mushroom\Desktop\КОД - СТАРОЕ\Time_сounting\Подсчет времени наработки\OpTime\obj\Debug\OpTime.Properties.Resources.resources
+C:\Users\Magic_mushroom\Desktop\КОД - СТАРОЕ\Time_сounting\Подсчет времени наработки\OpTime\obj\Debug\Программа подсчёта времени наработки.csproj.GenerateResource.Cache
+C:\Portfolio\bitbacket\time_counting_app\OpTime\bin\Debug\settings.cfg
+C:\Portfolio\bitbacket\time_counting_app\OpTime\bin\Debug\OpTime.exe.config
+C:\Portfolio\bitbacket\time_counting_app\OpTime\bin\Debug\OpTime.exe
+C:\Portfolio\bitbacket\time_counting_app\OpTime\bin\Debug\OpTime.pdb
+C:\Portfolio\bitbacket\time_counting_app\OpTime\obj\Debug\Программа подсчёта времени наработки.csprojAssemblyReference.cache
+C:\Portfolio\bitbacket\time_counting_app\OpTime\obj\Debug\OpTime.AboutProgramForm.resources
+C:\Portfolio\bitbacket\time_counting_app\OpTime\obj\Debug\OpTime.AdminForm.resources
+C:\Portfolio\bitbacket\time_counting_app\OpTime\obj\Debug\OpTime.KomplektsForm.resources
+C:\Portfolio\bitbacket\time_counting_app\OpTime\obj\Debug\OpTime.MainForm.resources
+C:\Portfolio\bitbacket\time_counting_app\OpTime\obj\Debug\OpTime.PasswordForm.resources
+C:\Portfolio\bitbacket\time_counting_app\OpTime\obj\Debug\OpTime.Properties.Resources.resources
+C:\Portfolio\bitbacket\time_counting_app\OpTime\obj\Debug\Программа подсчёта времени наработки.csproj.GenerateResource.cache
+C:\Portfolio\bitbacket\time_counting_app\OpTime\obj\Debug\Программа подсчёта времени наработки.csproj.CoreCompileInputs.cache
+C:\Portfolio\bitbacket\time_counting_app\OpTime\obj\Debug\OpTime.exe
+C:\Portfolio\bitbacket\time_counting_app\OpTime\obj\Debug\OpTime.pdb

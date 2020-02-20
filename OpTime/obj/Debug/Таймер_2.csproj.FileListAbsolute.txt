@@ -1,0 +1,15 @@
+C:\Users\Дрёмина Виктория\Desktop\Таймер_2\Таймер_2\bin\Debug\Таймер_2.exe.config
+C:\Users\Дрёмина Виктория\Desktop\Таймер_2\Таймер_2\bin\Debug\settings.cfg
+C:\Users\Дрёмина Виктория\Desktop\Таймер_2\Таймер_2\bin\Debug\Таймер_2.exe
+C:\Users\Дрёмина Виктория\Desktop\Таймер_2\Таймер_2\bin\Debug\Таймер_2.pdb
+C:\Users\Дрёмина Виктория\Desktop\Таймер_2\Таймер_2\obj\Debug\Таймер_2.AboutProgramForm.resources
+C:\Users\Дрёмина Виктория\Desktop\Таймер_2\Таймер_2\obj\Debug\Таймер_2.KomplektsForm.resources
+C:\Users\Дрёмина Виктория\Desktop\Таймер_2\Таймер_2\obj\Debug\Таймер_2.MainForm.resources
+C:\Users\Дрёмина Виктория\Desktop\Таймер_2\Таймер_2\obj\Debug\Таймер_2.Properties.Resources.resources
+C:\Users\Дрёмина Виктория\Desktop\Таймер_2\Таймер_2\obj\Debug\Таймер_2.csproj.GenerateResource.Cache
+C:\Users\Дрёмина Виктория\Desktop\Таймер_2\Таймер_2\obj\Debug\Таймер_2.exe
+C:\Users\Дрёмина Виктория\Desktop\Таймер_2\Таймер_2\obj\Debug\Таймер_2.pdb
+C:\Users\Дрёмина Виктория\Desktop\Таймер_2\Таймер_2\obj\Debug\Таймер_2.csprojResolveAssemblyReference.cache
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\Программа подсчёта времени наработки\Таймер_2\bin\Debug\Таймер_2.exe.config
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\Программа подсчёта времени наработки\Таймер_2\obj\Debug\Таймер_2.exe
+C:\Users\Дрёмина Виктория\Desktop\Программа подсчёта времени наработки\Программа подсчёта времени наработки\Таймер_2\obj\Debug\Таймер_2.pdb
